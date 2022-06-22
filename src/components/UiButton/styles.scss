@@ -1,0 +1,16 @@
+.uiButton {
+  height: 50px;
+  width: 100%;
+  cursor: pointer;
+  text-align: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+  &--primary {
+    background-color: black;
+    color: white;
+  }
+  &--secondary {
+    background-color: grey;
+    color: white;
+  }
+}
