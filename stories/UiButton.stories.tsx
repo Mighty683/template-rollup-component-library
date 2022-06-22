@@ -1,7 +1,7 @@
 import React from 'react';
 import {ComponentMeta, ComponentStory} from '@storybook/react';
 
-import { UiButton, ButtonTypes } from "../src/components/UiButton";
+import { UiButton, ButtonTypes } from "../dist/components/UiButton";
 
 export default {
   title: 'UiButton',
