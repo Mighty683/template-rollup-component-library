@@ -1,0 +1,2 @@
+import{__rest as t,__assign as e}from"../../node_modules/tslib/tslib.es6.js";import s,{memo as o}from"react";import r from"classnames";export{ButtonTypes}from"./types.js";var a=o((function(o){var a=o.className,n=o.buttonType;o.disabled,o.testId;var m=o.children,i=t(o,["className","buttonType","disabled","testId","children"]);return s.createElement("button",e({className:r(a,"uiButton","uiButton--"+n)},i),m)}));export{a as UiButton};
+//# sourceMappingURL=index.js.map
