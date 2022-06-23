@@ -1,4 +1,4 @@
-import '../dist/components/UiButton/styles.css';
+import '../dist/csj/components/UiButton/styles.css';
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
